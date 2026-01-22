@@ -1,0 +1,83 @@
+{
+  "id": "efc73483-8fb4-45ba-8f74-d801bb7bcc1e",
+  "name": "My Dual Camera Profile",
+  "description": null,
+  "profileType": "Custom",
+  "createdTimestamp": 1768813111363,
+  "modifiedTimestamp": 1768813111365,
+  "mouseSensitivity": 1,
+  "alternateCursorModeEnabled": false,
+  "selectedCameraIndex": -1,
+  "selectedCameraName": null,
+  "phoneConnectionType": "usb",
+  "phoneWifiIp": null,
+  "phonePort": 52990,
+  "phoneCalibration": null,
+  "gestureMappings": [
+    {
+      "gesture": "Point",
+      "action": "MoveCursor",
+      "isEnabled": true
+    },
+    {
+      "gesture": "Pinch",
+      "action": "LeftClick",
+      "isEnabled": true
+    },
+    {
+      "gesture": "Fist",
+      "action": "LeftHold",
+      "isEnabled": true
+    },
+    {
+      "gesture": "Palm",
+      "action": "LeftRelease",
+      "isEnabled": true
+    },
+    {
+      "gesture": "SwipeUp",
+      "action": "ScrollUp",
+      "isEnabled": true
+    },
+    {
+      "gesture": "SwipeDown",
+      "action": "ScrollDown",
+      "isEnabled": true
+    },
+    {
+      "gesture": "ThumbsUp",
+      "action": "RightClick",
+      "isEnabled": false
+    },
+    {
+      "gesture": "HoldPinch",
+      "action": "HoldLeftMouse",
+      "isEnabled": false
+    },
+    {
+      "gesture": "HoldFist",
+      "action": "HoldLeftMouse",
+      "isEnabled": false
+    },
+    {
+      "gesture": "HoldPalm",
+      "action": "None",
+      "isEnabled": false
+    },
+    {
+      "gesture": "HoldThumbsUp",
+      "action": "None",
+      "isEnabled": false
+    },
+    {
+      "gesture": "DoublePinch",
+      "action": "DoubleClick",
+      "isEnabled": true
+    },
+    {
+      "gesture": "TriplePinch",
+      "action": "None",
+      "isEnabled": false
+    }
+  ]
+}

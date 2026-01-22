@@ -1,0 +1,170 @@
+{
+  "version": 2,
+  "id": "c071b060-9617-46f4-820f-5f149514a618",
+  "profileName": "Profile 2026-01-09 23:28",
+  "description": null,
+  "createdTimestamp": 1767997706688,
+  "modifiedTimestamp": 1767997825446,
+  "operatingMode": "ArEye",
+  "ipd": 65,
+  "qualityPreset": "Medium",
+  "cameras": [
+    {
+      "cameraId": "0",
+      "cameraName": "HD Webcam",
+      "cameraType": "Webcam",
+      "resolution": {
+        "width": 1920,
+        "height": 1080
+      },
+      "intrinsics": {
+        "fx": 1662.7687752661222,
+        "fy": 1662.7687752661222,
+        "cx": 960,
+        "cy": 540,
+        "k1": 0,
+        "k2": 0,
+        "k3": 0,
+        "p1": 0,
+        "p2": 0
+      },
+      "extrinsics": {
+        "rotation": [
+          1,
+          0,
+          -0,
+          0,
+          -1,
+          0,
+          -0,
+          0,
+          -1
+        ],
+        "translation": [
+          0,
+          0.5,
+          0.7
+        ]
+      },
+      "skinCalibration": {
+        "hsvLower": [
+          0,
+          20,
+          130
+        ],
+        "hsvUpper": [
+          25,
+          180,
+          255
+        ],
+        "ycrcbLower": [
+          0,
+          135,
+          85
+        ],
+        "ycrcbUpper": [
+          255,
+          180,
+          135
+        ]
+      },
+      "workspacePosition": {
+        "x": 0,
+        "y": 0.5,
+        "z": 0.7,
+        "direction": "Front"
+      },
+      "greyscaleMode": "EdgeBased",
+      "backgroundReferenceFrame": null,
+      "latencyData": {
+        "totalLatencyMs": 20,
+        "p95LatencyMs": 25,
+        "minLatencyMs": 15,
+        "maxLatencyMs": 35,
+        "stdDevMs": 5,
+        "sampleCount": 0,
+        "testedAt": "0001-01-01T00:00:00"
+      }
+    },
+    {
+      "cameraId": "-1",
+      "cameraName": "XREAL Eye Camera",
+      "cameraType": "XrealEye",
+      "resolution": {
+        "width": 640,
+        "height": 480
+      },
+      "intrinsics": {
+        "fx": 554.2562584220408,
+        "fy": 554.2562584220408,
+        "cx": 320,
+        "cy": 240,
+        "k1": 0,
+        "k2": 0,
+        "k3": 0,
+        "p1": 0,
+        "p2": 0
+      },
+      "extrinsics": {
+        "rotation": [
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "skinCalibration": {
+        "hsvLower": [
+          0,
+          30,
+          60
+        ],
+        "hsvUpper": [
+          20,
+          150,
+          255
+        ],
+        "ycrcbLower": [
+          0,
+          135,
+          85
+        ],
+        "ycrcbUpper": [
+          255,
+          180,
+          135
+        ]
+      },
+      "workspacePosition": null,
+      "greyscaleMode": "BackgroundSubtraction",
+      "backgroundReferenceFrame": null,
+      "latencyData": {
+        "totalLatencyMs": 20,
+        "p95LatencyMs": 25,
+        "minLatencyMs": 15,
+        "maxLatencyMs": 35,
+        "stdDevMs": 5,
+        "sampleCount": 0,
+        "testedAt": "0001-01-01T00:00:00"
+      }
+    }
+  ],
+  "workspaceLayout": {
+    "monitorWidth": 0.6,
+    "monitorHeight": 0.35,
+    "monitorDepth": 0.7,
+    "keyboardDepth": 0.4,
+    "tableHeight": 0.75
+  },
+  "screenCalibration": null
+}

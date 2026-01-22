@@ -1,0 +1,18 @@
+{
+  "id": "xreal-eye-test-001",
+  "name": "XREAL Eye Test",
+  "profileType": "preset",
+  "cameraSourceType": "XrealEye",
+  "flipHorizontal": true,
+  "mouseSensitivity": 2.0,
+  "imuHeadCompensationEnabled": true,
+  "gestureMappings": [
+    {"gesture": "pinch", "action": "leftClick", "isEnabled": true},
+    {"gesture": "fist", "action": "rightClick", "isEnabled": true},
+    {"gesture": "point", "action": "moveCursor", "isEnabled": true},
+    {"gesture": "palm", "action": "none", "isEnabled": false},
+    {"gesture": "thumbsUp", "action": "none", "isEnabled": false},
+    {"gesture": "swipeUp", "action": "scrollUp", "isEnabled": true},
+    {"gesture": "swipeDown", "action": "scrollDown", "isEnabled": true}
+  ]
+}

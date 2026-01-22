@@ -1,0 +1,81 @@
+{
+  "id": "preset-example",
+  "name": "Example Profile",
+  "description": "Example profile for single-camera hand tracking.",
+  "profileType": "Preset",
+  "createdTimestamp": 1768520532783,
+  "modifiedTimestamp": 1768520532783,
+  "mouseSensitivity": 3,
+  "selectedCameraIndex": 0,
+  "selectedCameraName": "HD Webcam",
+  "cameraSourceType": "Webcam",
+  "flipHorizontal": true,
+  "imuHeadCompensationEnabled": true,
+  "gestureMappings": [
+    {
+      "gesture": "Point",
+      "action": "MoveCursor",
+      "isEnabled": true
+    },
+    {
+      "gesture": "Pinch",
+      "action": "LeftClick",
+      "isEnabled": true
+    },
+    {
+      "gesture": "Fist",
+      "action": "LeftHold",
+      "isEnabled": true
+    },
+    {
+      "gesture": "Palm",
+      "action": "LeftRelease",
+      "isEnabled": true
+    },
+    {
+      "gesture": "SwipeUp",
+      "action": "None",
+      "isEnabled": false
+    },
+    {
+      "gesture": "SwipeDown",
+      "action": "None",
+      "isEnabled": false
+    },
+    {
+      "gesture": "ThumbsUp",
+      "action": "None",
+      "isEnabled": false
+    },
+    {
+      "gesture": "HoldPinch",
+      "action": "None",
+      "isEnabled": false
+    },
+    {
+      "gesture": "HoldFist",
+      "action": "None",
+      "isEnabled": false
+    },
+    {
+      "gesture": "HoldPalm",
+      "action": "None",
+      "isEnabled": false
+    },
+    {
+      "gesture": "HoldThumbsUp",
+      "action": "None",
+      "isEnabled": false
+    },
+    {
+      "gesture": "DoublePinch",
+      "action": "None",
+      "isEnabled": false
+    },
+    {
+      "gesture": "TriplePinch",
+      "action": "None",
+      "isEnabled": false
+    }
+  ]
+}

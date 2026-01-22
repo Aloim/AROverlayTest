@@ -1,0 +1,9 @@
+﻿=== AROverlay Launcher Debug Log ===
+Started: 2026-01-21 17:06:39.903
+Version: 1.0.0.0
+==================================================
+
+[2026-01-21 17:06:39.905] [INFO] [DebugViewModel] Debug mode enabled by user
+[2026-01-21 17:06:42.512] [INFO] [MainViewModel] Debug mode changed: True
+[2026-01-21 17:06:51.473] [INFO] [MainViewModel] Launching modules: HandTracker=True, MultiCamera=False, Multiscreen=False
+[2026-01-21 17:06:52.014] [INFO] [MainViewModel] All modules launched successfully

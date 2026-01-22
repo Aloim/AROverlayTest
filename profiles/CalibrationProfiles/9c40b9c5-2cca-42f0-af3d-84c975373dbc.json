@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "id": "9c40b9c5-2cca-42f0-af3d-84c975373dbc",
+  "profileName": "New Profile 2",
+  "description": null,
+  "createdTimestamp": 1767481278368,
+  "modifiedTimestamp": 1767481278369,
+  "operatingMode": "ArEye",
+  "ipd": null,
+  "qualityPreset": "Medium",
+  "cameras": [],
+  "workspaceLayout": null,
+  "screenCalibration": null
+}

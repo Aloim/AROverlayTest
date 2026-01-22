@@ -1,0 +1,17 @@
+{
+  "id": "550e8400-e29b-41d4-a716-446655440000",
+  "name": "Standard",
+  "profileType": "preset",
+  "mouseSensitivity": 1.0,
+  "selectedCameraIndex": -1,
+  "selectedCameraName": null,
+  "gestureMappings": [
+    {"gesture": "pinch", "action": "leftClick", "isEnabled": true},
+    {"gesture": "fist", "action": "rightClick", "isEnabled": true},
+    {"gesture": "point", "action": "moveCursor", "isEnabled": true},
+    {"gesture": "palm", "action": "none", "isEnabled": false},
+    {"gesture": "thumbsUp", "action": "none", "isEnabled": false},
+    {"gesture": "swipeUp", "action": "scrollUp", "isEnabled": true},
+    {"gesture": "swipeDown", "action": "scrollDown", "isEnabled": true}
+  ]
+}

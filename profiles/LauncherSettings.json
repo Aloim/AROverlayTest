@@ -1,0 +1,11 @@
+{
+  "isDesktopWebcamHandtrackerEnabled": true,
+  "isMultiscreenEnabled": false,
+  "isMultiCameraTrackerEnabled": false,
+  "activeDesktopWebcamHandtrackerProfileId": null,
+  "activeMultiscreenProfileId": null,
+  "isDebugModeEnabled": false,
+  "discoveredPhoneDeviceId": null,
+  "phoneConnectionRemembered": false,
+  "formSendTimestamps": []
+}

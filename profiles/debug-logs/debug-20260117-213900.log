@@ -1,0 +1,13 @@
+﻿=== AROverlay Launcher Debug Log ===
+Started: 2026-01-17 21:39:00.422
+Version: 1.0.0.0
+==================================================
+
+[2026-01-17 21:39:00.423] [INFO] [DebugViewModel] Debug mode enabled by user
+[2026-01-17 21:39:01.161] [INFO] [MainViewModel] Debug mode changed: True
+[2026-01-17 21:39:21.208] [INFO] [DebugViewModel] Sending debug report: TestDebugTitle
+[2026-01-17 21:39:25.723] [INFO] [DebugViewModel] Debug report sent successfully
+
+==================================================
+Ended: 2026-01-17 21:47:05.600
+=== End of Debug Log ===

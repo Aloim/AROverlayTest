@@ -1,0 +1,46 @@
+{
+  "id": "preset-multiscreen-curved",
+  "name": "Curved Setup",
+  "description": "Side screens angled 45 degrees inward, 0.5m closer than center.",
+  "profileType": "Preset",
+  "createdTimestamp": 1768520499920,
+  "modifiedTimestamp": 1768520499920,
+  "horizontalGap": 0.5,
+  "verticalOffset": 0,
+  "screenDepth": 1.5,
+  "screens": [
+    {
+      "index": 0,
+      "positionX": -0.5,
+      "positionY": 0,
+      "positionZ": 1,
+      "rotationHorizontal": 45,
+      "rotationVertical": 0,
+      "resolutionWidth": 1920,
+      "resolutionHeight": 1080,
+      "refreshRate": 60
+    },
+    {
+      "index": 1,
+      "positionX": 0,
+      "positionY": 0,
+      "positionZ": 1.5,
+      "rotationHorizontal": 0,
+      "rotationVertical": 0,
+      "resolutionWidth": 1920,
+      "resolutionHeight": 1080,
+      "refreshRate": 60
+    },
+    {
+      "index": 2,
+      "positionX": 0.5,
+      "positionY": 0,
+      "positionZ": 1,
+      "rotationHorizontal": -45,
+      "rotationVertical": 0,
+      "resolutionWidth": 1920,
+      "resolutionHeight": 1080,
+      "refreshRate": 60
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+﻿=== AROverlay Launcher Debug Log ===
+Started: 2026-01-17 21:47:17.252
+Version: 1.0.0.0
+==================================================
+
+[2026-01-17 21:47:17.253] [INFO] [MainViewModel] Debug mode restored from settings on startup
+[2026-01-17 21:47:19.889] [INFO] [MainViewModel] Initialization complete
+[2026-01-17 21:47:22.821] [INFO] [MainViewModel] Opening debug dialog
+[2026-01-17 21:47:30.886] [INFO] [DebugViewModel] Sending debug report: TESTdubug
+[2026-01-17 21:47:35.333] [ERROR] [DebugViewModel] Debug report failed: Failed to send: UnprocessableEntity - {"statusCode":422,"name":"validation_error","message":"Invalid `reply_to` field. The email address needs to follow the `email@example.com` or `Name <email@example.com>` format."}
+[2026-01-17 21:47:37.427] [INFO] [DebugViewModel] Debug mode disabled by user
+
+==================================================
+Ended: 2026-01-17 21:47:37.427
+=== End of Debug Log ===

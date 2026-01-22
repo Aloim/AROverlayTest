@@ -1,0 +1,46 @@
+{
+  "id": "0b1ef554-60bb-46c4-89c5-14869baf1b83",
+  "name": "Curved Setup 1",
+  "description": null,
+  "profileType": "Custom",
+  "createdTimestamp": 1768522159958,
+  "modifiedTimestamp": 1768522159959,
+  "horizontalGap": 0.5,
+  "verticalOffset": 0,
+  "screenDepth": 1.5,
+  "screens": [
+    {
+      "index": 0,
+      "positionX": -0.8520000000000003,
+      "positionY": 0,
+      "positionZ": 1.0239999999999996,
+      "rotationHorizontal": -45.80000000000001,
+      "rotationVertical": 0,
+      "resolutionWidth": 1920,
+      "resolutionHeight": 1080,
+      "refreshRate": 60
+    },
+    {
+      "index": 1,
+      "positionX": 0,
+      "positionY": 0,
+      "positionZ": 1.5,
+      "rotationHorizontal": 0,
+      "rotationVertical": 0,
+      "resolutionWidth": 1920,
+      "resolutionHeight": 1080,
+      "refreshRate": 60
+    },
+    {
+      "index": 2,
+      "positionX": 0.916,
+      "positionY": 0,
+      "positionZ": 1.136,
+      "rotationHorizontal": 46.19999999999999,
+      "rotationVertical": 0,
+      "resolutionWidth": 1920,
+      "resolutionHeight": 1080,
+      "refreshRate": 60
+    }
+  ]
+}

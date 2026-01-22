@@ -1,0 +1,87 @@
+{
+  "version": 2,
+  "id": "67db2a89-70a8-44e6-a4e3-a17b6fd8fda2",
+  "profileName": "Profile 2026-01-04 00:01",
+  "description": null,
+  "createdTimestamp": 1767481284747,
+  "modifiedTimestamp": 1767548398701,
+  "operatingMode": "ArEye",
+  "ipd": 65,
+  "qualityPreset": "Medium",
+  "cameras": [
+    {
+      "cameraId": "0",
+      "cameraName": "HD Webcam",
+      "cameraType": "Webcam",
+      "resolution": {
+        "width": 1920,
+        "height": 1080
+      },
+      "intrinsics": {
+        "fx": 1662.7687752661222,
+        "fy": 1662.7687752661222,
+        "cx": 960,
+        "cy": 540,
+        "k1": 0,
+        "k2": 0,
+        "k3": 0,
+        "p1": 0,
+        "p2": 0
+      },
+      "extrinsics": {
+        "rotation": [
+          1,
+          0,
+          -0,
+          0,
+          -1,
+          0,
+          -0,
+          0,
+          -1
+        ],
+        "translation": [
+          0,
+          0.5,
+          0.7
+        ]
+      },
+      "skinCalibration": {
+        "hsvLower": [
+          0,
+          20,
+          130
+        ],
+        "hsvUpper": [
+          25,
+          180,
+          255
+        ],
+        "ycrcbLower": [
+          0,
+          135,
+          85
+        ],
+        "ycrcbUpper": [
+          255,
+          180,
+          135
+        ]
+      },
+      "workspacePosition": {
+        "x": 0,
+        "y": 0.5,
+        "z": 0.7,
+        "direction": "Front"
+      }
+    }
+  ],
+  "workspaceLayout": {
+    "monitorWidth": 0.6,
+    "monitorHeight": 0.35,
+    "monitorDepth": 0.7,
+    "keyboardDepth": 0.4,
+    "tableHeight": 0.75
+  },
+  "screenCalibration": null
+}

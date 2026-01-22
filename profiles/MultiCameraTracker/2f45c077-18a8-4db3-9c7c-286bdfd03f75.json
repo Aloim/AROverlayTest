@@ -1,0 +1,75 @@
+{
+  "id": "2f45c077-18a8-4db3-9c7c-286bdfd03f75",
+  "name": "My Multi-Camera ProfileTest",
+  "description": null,
+  "profileType": "Custom",
+  "createdTimestamp": 1768920030922,
+  "modifiedTimestamp": 1768922646124,
+  "mouseSensitivity": 1,
+  "alternateCursorModeEnabled": false,
+  "cameraSlots": [
+    {
+      "slotIndex": 0,
+      "isEnabled": true,
+      "selectedCameraIndex": 0,
+      "selectedCameraName": "HD Webcam",
+      "position": "FacingUser",
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "weights": {
+        "xWeight": 0.6,
+        "yWeight": 0.7,
+        "zWeight": 0.3,
+        "gestureWeight": 0.7
+      },
+      "isPhoneCamera": false,
+      "phoneConnectionType": "usb",
+      "phoneWifiIp": null,
+      "phonePort": 52990
+    }
+  ],
+  "gestureMappings": [
+    {
+      "gesture": "Point",
+      "action": "MoveCursor",
+      "isEnabled": true,
+      "activationDelayMs": 100
+    },
+    {
+      "gesture": "Pinch",
+      "action": "LeftClick",
+      "isEnabled": true,
+      "activationDelayMs": 67
+    },
+    {
+      "gesture": "Fist",
+      "action": "LeftHold",
+      "isEnabled": true,
+      "activationDelayMs": 167
+    },
+    {
+      "gesture": "Palm",
+      "action": "LeftRelease",
+      "isEnabled": true,
+      "activationDelayMs": 100
+    },
+    {
+      "gesture": "SwipeUp",
+      "action": "ScrollUp",
+      "isEnabled": true,
+      "activationDelayMs": 0
+    },
+    {
+      "gesture": "SwipeDown",
+      "action": "ScrollDown",
+      "isEnabled": true,
+      "activationDelayMs": 0
+    },
+    {
+      "gesture": "DoublePinch",
+      "action": "DoubleClick",
+      "isEnabled": true,
+      "activationDelayMs": 0
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "28a02f67-b35f-480c-b2ad-b01790015453",
+  "name": "ProfileTest2",
+  "profileType": "Custom",
+  "createdTimestamp": 1768994016342,
+  "modifiedTimestamp": 1769012030793,
+  "mouseSensitivity": 4,
+  "selectedCameraIndex": 0,
+  "selectedCameraName": "HD Webcam",
+  "cameraSourceType": "Webcam",
+  "flipHorizontal": true,
+  "imuHeadCompensationEnabled": true,
+  "alternateCursorModeEnabled": false,
+  "gestureMappings": [
+    {
+      "gesture": "point",
+      "action": "moveCursor",
+      "isEnabled": true,
+      "activationDelayMs": 100
+    },
+    {
+      "gesture": "pinch",
+      "action": "leftClick",
+      "isEnabled": true,
+      "activationDelayMs": 100
+    },
+    {
+      "gesture": "fist",
+      "action": "windowDragExperimental",
+      "isEnabled": true,
+      "activationDelayMs": 100
+    },
+    {
+      "gesture": "palm",
+      "action": "voiceToTextActivation",
+      "isEnabled": true,
+      "activationDelayMs": 100
+    }
+  ],
+  "voiceRecognitionSettings": {
+    "enabled": true,
+    "selectedMicrophoneDeviceId": "{0.0.1.00000000}.{78938bc4-64e6-4303-9c41-112f02413a2a}",
+    "selectedMicrophoneName": "Capture Input terminal (XREAL One Pro)",
+    "activationMode": "handGesture",
+    "voiceCommandKeyword": "hey computer",
+    "enableAutocorrect": true,
+    "enableGrammarFix": true,
+    "silenceTimeoutSeconds": 5
+  },
+  "phoneCameraEnabled": false,
+  "phoneConnectionType": "usb",
+  "phonePort": 52990
+}

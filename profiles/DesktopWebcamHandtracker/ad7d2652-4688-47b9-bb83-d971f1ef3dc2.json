@@ -1,0 +1,87 @@
+{
+  "id": "ad7d2652-4688-47b9-bb83-d971f1ef3dc2",
+  "name": "ProfileTest1",
+  "description": null,
+  "profileType": "Custom",
+  "createdTimestamp": 1768520532783,
+  "modifiedTimestamp": 1768898448092,
+  "mouseSensitivity": 4,
+  "selectedCameraIndex": 0,
+  "selectedCameraName": "HD Webcam",
+  "cameraSourceType": "Webcam",
+  "flipHorizontal": true,
+  "imuHeadCompensationEnabled": true,
+  "alternateCursorModeEnabled": false,
+  "gestureMappings": [
+    {
+      "gesture": "Point",
+      "action": "MoveCursor",
+      "isEnabled": true
+    },
+    {
+      "gesture": "Pinch",
+      "action": "LeftClick",
+      "isEnabled": true
+    },
+    {
+      "gesture": "Fist",
+      "action": "WindowDragExperimental",
+      "isEnabled": true
+    },
+    {
+      "gesture": "Palm",
+      "action": "RightClick",
+      "isEnabled": true
+    },
+    {
+      "gesture": "SwipeUp",
+      "action": "ScrollUp",
+      "isEnabled": false
+    },
+    {
+      "gesture": "SwipeDown",
+      "action": "ScrollDown",
+      "isEnabled": false
+    },
+    {
+      "gesture": "ThumbsUp",
+      "action": "DoubleClick",
+      "isEnabled": true
+    },
+    {
+      "gesture": "HoldPinch",
+      "action": "None",
+      "isEnabled": false
+    },
+    {
+      "gesture": "HoldFist",
+      "action": "None",
+      "isEnabled": false
+    },
+    {
+      "gesture": "HoldPalm",
+      "action": "None",
+      "isEnabled": false
+    },
+    {
+      "gesture": "HoldThumbsUp",
+      "action": "None",
+      "isEnabled": false
+    },
+    {
+      "gesture": "DoublePinch",
+      "action": "None",
+      "isEnabled": false
+    },
+    {
+      "gesture": "TriplePinch",
+      "action": "None",
+      "isEnabled": false
+    }
+  ],
+  "phoneCameraEnabled": true,
+  "phoneConnectionType": "usb",
+  "phoneWifiIp": null,
+  "phonePort": 52990,
+  "phoneCalibration": null
+}

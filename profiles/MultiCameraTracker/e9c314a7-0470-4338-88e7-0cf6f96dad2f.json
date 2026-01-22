@@ -1,0 +1,206 @@
+{
+  "id": "e9c314a7-0470-4338-88e7-0cf6f96dad2f",
+  "name": "My Multi-Camera Profile",
+  "description": null,
+  "profileType": "Custom",
+  "createdTimestamp": 1768914103434,
+  "modifiedTimestamp": 1768914103436,
+  "mouseSensitivity": 1,
+  "alternateCursorModeEnabled": false,
+  "cameraSlots": [
+    {
+      "slotIndex": 0,
+      "isEnabled": true,
+      "selectedCameraIndex": -1,
+      "selectedCameraName": null,
+      "position": "FacingUser",
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "weights": {
+        "xWeight": 0.6,
+        "yWeight": 0.7,
+        "zWeight": 0.3,
+        "gestureWeight": 0.7
+      },
+      "isPhoneCamera": false,
+      "phoneConnectionType": "usb",
+      "phoneWifiIp": null,
+      "phonePort": 52990
+    },
+    {
+      "slotIndex": 1,
+      "isEnabled": false,
+      "selectedCameraIndex": -1,
+      "selectedCameraName": null,
+      "position": "FacingUser",
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "weights": {
+        "xWeight": 0.5,
+        "yWeight": 0.5,
+        "zWeight": 0.5,
+        "gestureWeight": 0.5
+      },
+      "isPhoneCamera": false,
+      "phoneConnectionType": "usb",
+      "phoneWifiIp": null,
+      "phonePort": 52990
+    },
+    {
+      "slotIndex": 2,
+      "isEnabled": false,
+      "selectedCameraIndex": -1,
+      "selectedCameraName": null,
+      "position": "FacingUser",
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "weights": {
+        "xWeight": 0.5,
+        "yWeight": 0.5,
+        "zWeight": 0.5,
+        "gestureWeight": 0.5
+      },
+      "isPhoneCamera": false,
+      "phoneConnectionType": "usb",
+      "phoneWifiIp": null,
+      "phonePort": 52990
+    },
+    {
+      "slotIndex": 3,
+      "isEnabled": false,
+      "selectedCameraIndex": -1,
+      "selectedCameraName": null,
+      "position": "FacingUser",
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "weights": {
+        "xWeight": 0.5,
+        "yWeight": 0.5,
+        "zWeight": 0.5,
+        "gestureWeight": 0.5
+      },
+      "isPhoneCamera": false,
+      "phoneConnectionType": "usb",
+      "phoneWifiIp": null,
+      "phonePort": 52990
+    },
+    {
+      "slotIndex": 4,
+      "isEnabled": false,
+      "selectedCameraIndex": -1,
+      "selectedCameraName": null,
+      "position": "FacingUser",
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "weights": {
+        "xWeight": 0.5,
+        "yWeight": 0.5,
+        "zWeight": 0.5,
+        "gestureWeight": 0.5
+      },
+      "isPhoneCamera": false,
+      "phoneConnectionType": "usb",
+      "phoneWifiIp": null,
+      "phonePort": 52990
+    },
+    {
+      "slotIndex": 5,
+      "isEnabled": false,
+      "selectedCameraIndex": -1,
+      "selectedCameraName": null,
+      "position": "FacingUser",
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "weights": {
+        "xWeight": 0.5,
+        "yWeight": 0.5,
+        "zWeight": 0.5,
+        "gestureWeight": 0.5
+      },
+      "isPhoneCamera": false,
+      "phoneConnectionType": "usb",
+      "phoneWifiIp": null,
+      "phonePort": 52990
+    }
+  ],
+  "gestureMappings": [
+    {
+      "gesture": "Point",
+      "action": "MoveCursor",
+      "isEnabled": true,
+      "activationDelayMs": 100
+    },
+    {
+      "gesture": "Pinch",
+      "action": "LeftClick",
+      "isEnabled": true,
+      "activationDelayMs": 67
+    },
+    {
+      "gesture": "Fist",
+      "action": "LeftHold",
+      "isEnabled": true,
+      "activationDelayMs": 167
+    },
+    {
+      "gesture": "Palm",
+      "action": "LeftRelease",
+      "isEnabled": true,
+      "activationDelayMs": 100
+    },
+    {
+      "gesture": "SwipeUp",
+      "action": "ScrollUp",
+      "isEnabled": true,
+      "activationDelayMs": 0
+    },
+    {
+      "gesture": "SwipeDown",
+      "action": "ScrollDown",
+      "isEnabled": true,
+      "activationDelayMs": 0
+    },
+    {
+      "gesture": "ThumbsUp",
+      "action": "RightClick",
+      "isEnabled": false,
+      "activationDelayMs": 100
+    },
+    {
+      "gesture": "HoldPinch",
+      "action": "HoldLeftMouse",
+      "isEnabled": false,
+      "activationDelayMs": 500
+    },
+    {
+      "gesture": "HoldFist",
+      "action": "HoldLeftMouse",
+      "isEnabled": false,
+      "activationDelayMs": 500
+    },
+    {
+      "gesture": "HoldPalm",
+      "action": "None",
+      "isEnabled": false,
+      "activationDelayMs": 500
+    },
+    {
+      "gesture": "HoldThumbsUp",
+      "action": "None",
+      "isEnabled": false,
+      "activationDelayMs": 500
+    },
+    {
+      "gesture": "DoublePinch",
+      "action": "DoubleClick",
+      "isEnabled": true,
+      "activationDelayMs": 0
+    },
+    {
+      "gesture": "TriplePinch",
+      "action": "None",
+      "isEnabled": false,
+      "activationDelayMs": 0
+    }
+  ]
+}

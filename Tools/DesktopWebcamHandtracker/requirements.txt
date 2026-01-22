@@ -1,0 +1,21 @@
+# DesktopWebcamHandtracker Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core dependencies
+mediapipe>=0.10.0
+opencv-python>=4.8.0
+numpy>=1.24.0
+pynput>=1.7.6
+
+# Optional Windows-specific (for screen resolution detection)
+pywin32>=306; sys_platform == 'win32'
+
+# Optional - enhanced image processing
+opencv-contrib-python>=4.8.0  # Guided filter for hand detection
+scipy>=1.10.0                  # FFT-based denoising
+
+# Voice-to-text dependencies (Phase 3)
+sherpa-onnx>=1.10.0           # Streaming speech recognition
+pyaudio>=0.2.14               # Microphone capture
+pyspellchecker>=0.8.0         # Spelling correction
+symspellpy>=6.7.0             # Fast fuzzy spell checking
